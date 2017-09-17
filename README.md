@@ -1,1 +1,1 @@
-Simple JSF + PrimeFaces MVC starter project
+Starter JSF + PrimeFaces MVC project
